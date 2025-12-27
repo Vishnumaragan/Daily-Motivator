@@ -16,27 +16,8 @@ Daily-Motivator is a frontend web application built with HTML, CSS, and JavaScri
 
 ## Folder Structure
 The repository structure is shown exactly as implemented:
+<img width="276" height="537" alt="image" src="https://github.com/user-attachments/assets/148822cf-89a2-4d27-b16b-9116f9952b22" />
 
-Daily-Motivator/
-├── auth-ui/
-│   ├── login.html
-│   ├── signup.html
-│   ├── signup.css
-│   ├── auth-forms.js
-│   └── auth-toggle.js
-├── to-do/
-│   ├── to-do.html
-│   ├── to-do.css
-│   └── to-do.js
-├── background.avif
-├── feedback.html
-├── feedback.css
-├── Index.html
-├── script.js
-├── style.css
-├── Quote_script.js
-├── Quote_style.css
-└── README.md
 
 ## Branches Used
 - `main`
