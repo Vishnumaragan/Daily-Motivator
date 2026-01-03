@@ -59,6 +59,6 @@ Each feature was developed in its own branch and later merged into `main`.
 Daily-Motivator is a compact, course-oriented frontend project illustrating disciplined Git workflows: isolated feature branches, merging into `main`, handling merge conflicts, and producing a clear commit history for academic evaluation. The project structure and commit practices are designed to be reproducible and educational.
 
 ## GitHub Repository Link
-Please add the repository URL here:
+repository URL :
 https://github.com/Vishnumaragan/Daily-Motivator
 
